@@ -24,7 +24,8 @@
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,terraform,java,python" />
 </p>
 
-🚀 Tech Stack
+<h1 align="center">🚀 Tech Stack</h1>
+
 🐧 Operating Systems
 
 ⚙️ DevOps Tools
