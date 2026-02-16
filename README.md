@@ -24,6 +24,12 @@
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,terraform,java,python" />
 </p>
 
+🚀 Tech Stack
+🐧 Operating Systems
+⚙️ DevOps Tools
+☁️ Cloud Platforms
+💻 Programming & Scripting
+
 ⚡ DevOps Philosophy
 
 Automate everything.
