@@ -24,7 +24,10 @@
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,terraform,java,python" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,git,java,react" />
+⚡ DevOps Philosophy
 
+Automate everything.
+Monitor everything.
+Improve continuously.
 
 ---
