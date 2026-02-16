@@ -21,7 +21,7 @@
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,terraform,java,python" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,terraform,prometheus,grafana" />
 </p>
 
 <h1 align="center">🚀 Tech Stack</h1>
