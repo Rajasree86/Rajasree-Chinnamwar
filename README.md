@@ -26,8 +26,11 @@
 
 🚀 Tech Stack
 🐧 Operating Systems
+
 ⚙️ DevOps Tools
+
 ☁️ Cloud Platforms
+
 💻 Programming & Scripting
 
 ⚡ DevOps Philosophy
