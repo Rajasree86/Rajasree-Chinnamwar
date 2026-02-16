@@ -34,7 +34,7 @@
 
 💻 Programming & Scripting
 
-⚡ DevOps Philosophy
+<h3> ⚡ DevOps Philosophy </h3>
 
 Automate everything.
 Monitor everything.
